@@ -19,6 +19,10 @@ $4 = {bit = {SWRST = 0, ENABLE = 0, MODE = 0, RUNSTDBY = 0, IBON = 0, SAMPR = 0,
   reg = 0}
 
 
+* autoconf
+http://www.laruence.com/2009/11/18/1154.html
 --
 
-[Discuss this post on Hacker News](http://xxx.com/)
+[Online GDB Manual](http://www.gnu.org/software/gdb/documentation/) 
+[Example](http://www.yolinux.com/TUTORIALS/src/dbinit_stl_views-1.03.txt)
+[Example](http://www.opensource.apple.com/source/emacs/emacs-70/emacs/src/.gdbinit)
